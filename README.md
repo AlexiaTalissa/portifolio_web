@@ -1,2 +1,2 @@
 # portifolio_web
-Portfólio de Exercicio  3.1
+Portfólio feito para o exercicio do Bloco 3.1
